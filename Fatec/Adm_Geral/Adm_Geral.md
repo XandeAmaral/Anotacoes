@@ -4,7 +4,7 @@ Administração Geral
 
 13/02/21
 
-O intuito é garantir que as pessoas, os recursos (quantidades, aplicações, etc), etc estejam em ordem para alcançar as metas de forma *eficaz* e *eficiente*.
+O intuito é garantir que as pessoas, os recursos (quantidades, aplicações, etc), etc estejam em ordem para alcançar as metas de forma **eficaz** e **eficiente**.
 
 "Administração é o processo de alcançar objetivos pelo trabalho com e por meio de pessoas e outros recursos organizacionais"(Certo, 1994)
 
@@ -40,7 +40,7 @@ Nem sempre o cliente tem razão, a empresa n precisa endeusar um cliente. A ques
 
 Para Drucker, não existe países desenvolvidos e subdesenvolvidos. Existem países bem administrados e mal administrados.
 
-*Papel do administrador*- é chefe de outras pessoas, mas se torna responsável por outras pessoas, nenhuma empresa ou organização pode administrar a si mesma. O administrador precisa ter características de líder, pois ele em constante relação com os fatores humanos da empresa, ele n pode utilizar o poder dele para impor coisas aos outros.
+**Papel do administrador**- é chefe de outras pessoas, mas se torna responsável por outras pessoas, nenhuma empresa ou organização pode administrar a si mesma. O administrador precisa ter características de líder, pois ele em constante relação com os fatores humanos da empresa, ele n pode utilizar o poder dele para impor coisas aos outros.
 	Previsão-
 	Planejamento-
 	Alocação de Recurso- disponibilizar tempo, lugar, máquina
