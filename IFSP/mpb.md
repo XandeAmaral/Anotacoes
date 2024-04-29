@@ -1,0 +1,1 @@
+A música é uma das bases da expressão hhmana, saber onde se iniciou a autentica música é muito complicado já q temos uma mistura das culturas europeias, africanas e indígenas.
