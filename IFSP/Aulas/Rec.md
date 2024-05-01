@@ -72,7 +72,7 @@ roteadores de switch vão até a 2, os mais caros e melhor processador vão até
 2          internet
 1           rede
 
-
+[](/IFSP/images/Modelo_OSI.png)
 Aula 22/05
 
 Universidade federal - Sempre esteve no mercado academico, mas não no de trabalho

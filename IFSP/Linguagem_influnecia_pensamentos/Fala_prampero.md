@@ -1,0 +1,4 @@
+Há 3 pilares da comunicação, o pensamento, a linguagem e a compreensão.
+Cada um deles é distintos entre si e formam um ciclo na ordem escrita. O primeiro pilar a ser formado é o pensamento, onde a partir deste se forma uma linguagem para que outros tenham a compreensão do seu pensamento e assim haja uma troca de ideias.
+Um dos problemas que surgem são os consensos públicos, que nada mais é q uma ideia é tomada como verdade ou fato, sem ter passado por nenhum teste ou confirmação. Isto acaba passando por gerações e atrapalhando de diversas formas o conhecimento, já que as pessoas tomam como verdade absoluta.
+A verdade absoluta é quando a pessoa, usando sua óptica do mundo, torna um conceito ou ideia como fato e ignora todas as ideologias diferentes dá dela, principalmente as que se contrapõem, formando se assim a ignorância e preconceitos.

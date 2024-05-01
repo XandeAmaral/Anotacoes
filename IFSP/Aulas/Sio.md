@@ -96,9 +96,9 @@ Linux
 	Carlos Eduado Morimoto ( Livro de Linux Biblioteca )
 	
 permissões de arquivos no Linux é super importante
-- R - Read           = 4
-- W - Write         = 2
-- X - Execution   = 1
+- R - Read = 4
+- W - Write = 2
+- X - Execution = 1
 1. Usuário R W X = 7
 2. Grupo   R      X  = 5
 3. Outros  R           = 4  (ou pode deixar vazia tbm)    = 1 
