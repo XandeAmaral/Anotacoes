@@ -1,0 +1,9 @@
+- BUILD          - Build related changes (eg: npm related/ adding external dependencies)
+- CHORE        - A code change that external user won't see (eg: change to .gitignore file or .prettierrc file)
+- FEAT             - A new feature
+- FIX                - A bug fix
+- DOCS           - Documentation related changes
+- REFACTOR - A code that neither fix bug nor adds a feature. (eg: You can use this when there is semantic changes like renaming a variable/ function name)
+- PERF            - A code that improves performance
+- STYLE          - A code that is related to styling
+- TEST            - Adding new test or making changes to existing test
